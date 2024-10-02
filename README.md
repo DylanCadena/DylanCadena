@@ -8,10 +8,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am Currently studying System enginnering.\
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-📄 &nbsp;Please have a look at my [Résumé]() for more details about me.
+👨‍💻 I am currently studying Systems Engineering.
+💡 I like exploring new technologies and developing software solutions.
+🌱 I'm on track to learning more about Web3, Microservice-Based Architecture, and Machine Learning.
+📄 Please have a look at my résumé for more details about me.
 
 
 
