@@ -8,9 +8,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 I am currently studying Systems Engineering.
-💡 I like exploring new technologies and developing software solutions.
-🌱 I'm on track to learning more about Web3, Microservice-Based Architecture, and Machine Learning.
+👨‍💻 I am currently studying Systems Engineering.\
+💡 I like exploring new technologies and developing software solutions.\
+🌱 I'm on track to learning more about Web3, Microservice-Based Architecture, and Machine Learning.\
 📄 Please have a look at my résumé for more details about me.
 
 
