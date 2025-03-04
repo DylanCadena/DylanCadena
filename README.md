@@ -42,6 +42,7 @@
 <h1>Some of my Projects! 🎨</h1>
 
 <h1>Certifications! 🏆</h1>
+https://www.credly.com/badges/ef252cad-6e7b-436b-86bc-4dcba8d712b3/public_url
 
 
 <h1>Thank You! 🤵 </h1>
