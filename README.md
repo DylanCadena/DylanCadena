@@ -39,7 +39,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 
-<h1>Some of my Projects! 🎨</h1>
+<h1>projects I have participated in 🎨</h1>
+https://github.com/VicBoss10/detect
+https://github.com/SnowWulf/moviles_zonalert
+https://github.com/DylanCadena/careguardian
 
 <h1>Certifications! 🏆</h1>
 https://www.credly.com/badges/ef252cad-6e7b-436b-86bc-4dcba8d712b3/public_url
