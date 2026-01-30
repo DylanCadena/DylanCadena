@@ -47,8 +47,8 @@
 
 
 <h1>Certifications! 🏆</h1>
-https://www.credly.com/badges/ef252cad-6e7b-436b-86bc-4dcba8d712b3/public_url
-
+https://www.credly.com/badges/ef252cad-6e7b-436b-86bc-4dcba8d712b3/public_url  
+https://acreditta.com/credential/03f51583-5265-4aec-8d55-fb1d7f619530?utm_source=copy&resource_type=badge&resource=03f51583-5265-4aec-8d55-fb1d7f619530
 
 <h1>Thank You! 🤵 </h1>
 
