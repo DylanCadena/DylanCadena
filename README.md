@@ -42,8 +42,9 @@
 <h1>projects I have participated in 🎨</h1>
 
 - 🔍 Detect — https://github.com/VicBoss10/detect  
-- 📱 Moviles ZonAlert — https://github.com/SnowWulf/moviles_zonalert  
-- 🩺 CareGuardian — https://github.com/DylanCadena/careguardian  
+- 📱 ZonAlert — https://github.com/SnowWulf/moviles_zonalert  
+- 🩺 CareGuardian — https://github.com/DylanCadena/careguardian
+- 🩺 streakify -https://github.com/DylanCadena/habit_tracker_app 
 
 
 <h1>Certifications! 🏆</h1>
