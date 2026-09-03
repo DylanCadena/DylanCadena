@@ -44,7 +44,7 @@
 - 🔍 Detect — https://github.com/VicBoss10/detect  
 - 📱 ZonAlert — https://github.com/SnowWulf/moviles_zonalert  
 - 🩺 CareGuardian — https://github.com/DylanCadena/careguardian
-- 🩺 Streakify -https://github.com/DylanCadena/habit_tracker_app 
+- 📅 Streakify -https://github.com/DylanCadena/habit_tracker_app 
 
 
 <h1>Certifications! 🏆</h1>
