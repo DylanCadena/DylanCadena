@@ -13,10 +13,11 @@
 <br/>
 
 <h1 align="center">GitHub Stats 📊</h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DylanCadena&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCadena&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DylanCadena&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCadena&layout=compact&theme=radical&v=1" alt="Top Languages" />
+</div>
 
 <br/>
 
