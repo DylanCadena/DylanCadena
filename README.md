@@ -10,16 +10,6 @@
 🚀 Distributing mobile applications under the publisher identity **Nativa Coders**.<br/>
 📄 Please have a look at my résumé for more details about my experience.
 
-<br/>
-
-<h1 align="center">GitHub Stats 📊</h1>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DylanCadena&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCadena&layout=compact&theme=radical&v=1" alt="Top Languages" />
-</div>
-
-<br/>
 
 <h1>Tech Stack 🛠</h1>
 
