@@ -1,57 +1,64 @@
-
 <p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 
+<h1 align="center">About Me 👨🏻‍💻</h1>
 
+👨‍💻 I am a Systems Engineering student approaching graduation and actively building software projects.<br/>
+💡 I like exploring new technologies and developing software solutions.<br/>
+🌱 I'm on track to learning more about Web3, Microservice-Based Architecture, and DevOps.<br/>
+🚀 Distributing mobile applications under the publisher identity **Nativa Coders**.<br/>
+📄 Please have a look at my résumé for more details about my experience.
 
+<br/>
 
-<h1>About Me 👨🏻‍💻</h1>
+<h1 align="center">GitHub Stats 📊</h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DylanCadena&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DylanCadena&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-👨‍💻 I am currently studying Systems Engineering.\
-💡 I like exploring new technologies and developing software solutions.\
-🌱 I'm on track to learning more about Web3, Microservice-Based Architecture, and DevOps.\
-📄 Please have a look at my résumé for more details about me.
-
-
+<br/>
 
 <h1>Tech Stack 🛠</h1>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 
 <h1>Databases 🗃</h1>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-
-<h1>Version Controll & Tools 🧰 </h1>
+<h1>Version Control & Tools 🧰 </h1>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
+<h1>Projects I Have Participated In 🎨</h1>
 
-<h1>projects I have participated in 🎨</h1>
+- 📅 [**Streakify**](https://github.com/DylanCadena/habit_tracker_app) - Offline utility mobile app for habit tracking.
+- 📱 [**ZonAlert**](https://github.com/SnowWulf/moviles_zonalert) - Application for detecting high-risk areas (crime) in a city
+- 🔍 [**Detect**](https://github.com/VicBoss10/detect) - Application for object detection using a camera
 
-- 🔍 Detect — https://github.com/VicBoss10/detect  
-- 📱 ZonAlert — https://github.com/SnowWulf/moviles_zonalert  
-- 🩺 CareGuardian — https://github.com/DylanCadena/careguardian
-- 📅 Streakify -https://github.com/DylanCadena/habit_tracker_app 
+<h1>Certifications 🏆</h1>
 
+- 🏅 [Ver Certificación en Credly](https://www.credly.com/badges/ef252cad-6e7b-436b-86bc-4dcba8d712b3/public_url)
+- 🏅 [Ver Certificación en Acreditta](https://acreditta.com/credential/03f51583-5265-4aec-8d55-fb1d7f619530?utm_source=copy&resource_type=badge&resource=03f51583-5265-4aec-8d55-fb1d7f619530)
 
-<h1>Certifications! 🏆</h1>
-https://www.credly.com/badges/ef252cad-6e7b-436b-86bc-4dcba8d712b3/public_url  
-https://acreditta.com/credential/03f51583-5265-4aec-8d55-fb1d7f619530?utm_source=copy&resource_type=badge&resource=03f51583-5265-4aec-8d55-fb1d7f619530
+<br/>
 
-<h1>Thank You! 🤵 </h1>
+<h1 align="center">Thank You! 🤵</h1>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
-
+<p align="center">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+</p>
